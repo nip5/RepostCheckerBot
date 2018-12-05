@@ -1,0 +1,1575 @@
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 587, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 201, in findNewPosts
+    for submission in subreddit.new(limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 137, in findHotPosts
+    for submission in subreddit.hot(limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 26, in deleteComment
+    for comment in reddit.redditor('RepostCheckerBot').comments.new(limit=50):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+
+Traceback (most recent call last):
+  File "app.py", line 69, in findTopPosts
+    for submission in subreddit.top('all', limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 201, in findNewPosts
+    for submission in subreddit.new(limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 26, in deleteComment
+    for comment in reddit.redditor('RepostCheckerBot').comments.new(limit=50):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+
+Traceback (most recent call last):
+  File "app.py", line 69, in findTopPosts
+    for submission in subreddit.top('all', limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 137, in findHotPosts
+    for submission in subreddit.hot(limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 26, in deleteComment
+    for comment in reddit.redditor('RepostCheckerBot').comments.new(limit=50):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+
+Traceback (most recent call last):
+  File "app.py", line 201, in findNewPosts
+    for submission in subreddit.new(limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 69, in findTopPosts
+    for submission in subreddit.top('all', limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 137, in findHotPosts
+    for submission in subreddit.hot(limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 201, in findNewPosts
+    for submission in subreddit.new(limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 69, in findTopPosts
+    for submission in subreddit.top('all', limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 26, in deleteComment
+    for comment in reddit.redditor('RepostCheckerBot').comments.new(limit=50):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+
+Traceback (most recent call last):
+  File "app.py", line 137, in findHotPosts
+    for submission in subreddit.hot(limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 137, in findHotPosts
+    for submission in subreddit.hot(limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 201, in findNewPosts
+    for submission in subreddit.new(limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 69, in findTopPosts
+    for submission in subreddit.top('all', limit=limitVal):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+Traceback (most recent call last):
+  File "app.py", line 26, in deleteComment
+    for comment in reddit.redditor('RepostCheckerBot').comments.new(limit=50):
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 52, in __next__
+    self._next_batch()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\models\listing\generator.py", line 62, in _next_batch
+    self._listing = self._reddit.get(self.url, params=self.params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 391, in get
+    data = self.request('GET', path, params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\praw\reddit.py", line 506, in request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 185, in request
+    params=params, url=url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 116, in _request_with_retries
+    data, files, json, method, params, retries, url)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 101, in _make_request
+    params=params)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\rate_limit.py", line 35, in call
+    kwargs['headers'] = set_header_callback()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\sessions.py", line 145, in _set_header_callback
+    self._authorizer.refresh()
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 328, in refresh
+    password=self._password)
+  File "C:\Users\Nate\Miniconda3\lib\site-packages\prawcore\auth.py", line 142, in _request_token
+    payload.get('error_description'))
+prawcore.exceptions.OAuthException: unauthorized_client error processing request (Only script apps may use password auth)
+
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 157, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 589, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 590, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 590, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 590, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 590, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 590, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 590, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 590, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 590, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 590, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 591, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 591, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 591, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 591, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 591, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 591, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 592, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 594, in isLogged
+    sys.exit()
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 592, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 594, in isLogged
+    sys.exit()
+NameError: name 'sys' is not defined
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 593, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 593, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 593, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 593, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 593, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 593, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 160, in findHotPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 593, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 119, in findTopPosts
+    conn = sqlite3.connect('PostsRepostBotTest.db')
+NameError: name 'sqlite3' is not defined
+Traceback (most recent call last):
+  File "app.py", line 119, in findTopPosts
+    conn = sqlite3.connect('PostsRepostBotTest.db')
+NameError: name 'sqlite3' is not defined
+Traceback (most recent call last):
+  File "app.py", line 119, in findTopPosts
+    conn = sqlite3.connect('PostsRepostBotTest.db')
+NameError: name 'sqlite3' is not defined
+Traceback (most recent call last):
+  File "app.py", line 119, in findTopPosts
+    conn = sqlite3.connect('PostsRepostBotTest.db')
+NameError: name 'sqlite3' is not defined
+Traceback (most recent call last):
+  File "app.py", line 122, in findTopPosts
+    c.executemany("INSERT INTO Posts (Date, Content, Url, Location, Author, Title) VALUES (?, ?, ?, ?, ?, ?)", rows)
+NameError: name 'rows' is not defined
+Traceback (most recent call last):
+  File "app.py", line 122, in findTopPosts
+    c.executemany("INSERT INTO Posts (Date, Content, Url, Location, Author, Title) VALUES (?, ?, ?, ?, ?, ?)", rows)
+NameError: name 'rows' is not defined
+Traceback (most recent call last):
+  File "app.py", line 122, in findTopPosts
+    c.executemany("INSERT INTO Posts (Date, Content, Url, Location, Author, Title) VALUES (?, ?, ?, ?, ?, ?)", rows)
+NameError: name 'rows' is not defined
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
+Traceback (most recent call last):
+  File "app.py", line 93, in findTopPosts
+    reddit,
+  File "C:\Users\Nate\Desktop\repostChecker-master\database.py", line 588, in isLogged
+    then = datetime.fromtimestamp(i)
+OSError: [Errno 22] Invalid argument
