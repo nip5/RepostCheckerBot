@@ -194,8 +194,6 @@ def addToFound(post, precentage, result, originalPostDate, precentageMatched, au
     title.append(post[3])
     precentageMatched.append(precentage)
 
-
-
 def updateDatabase(conn, url, updateVal):
     c = conn.cursor()
     c.execute(
@@ -661,18 +659,5 @@ def addPost(date, contentUrl, media, url, text, author, title, top, hot, new, su
     elif new:
         locationVar = 'new'
 
-#    c.execute(
-#        'INSERT INTO Posts (Date, Content, Url, Location, Author, Title) VALUES (?, ?, ?, ?, ?, ?);',
-#            (
-#                int(date),
-#                str(content),
-#                str(url),
-#                str(locationVar),
-#                str(author),
-#                str(title),
-#            ),
-#        )
-        #conn.commit()
-        #c.close()
     print('Added new post - {}'.format(str(url)))
     return (int(date), str(content), str(url), str(locationVar), str(author), str(title))

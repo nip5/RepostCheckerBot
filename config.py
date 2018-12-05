@@ -5,7 +5,8 @@ client_secret = os.environ['BOT_CLIENT_SECRET']
 user_agent = os.environ['BOT_USER_AGENT']
 # username and password of account to post under
 username = os.environ['BOT_USERNAME']
-password = password = os.environ['BOT_PASSWORD']
+password =  os.environ['BOT_PASSWORD']
+
 subSettings = [
     [
         os.environ['BOT_SUBREDDIT'],
