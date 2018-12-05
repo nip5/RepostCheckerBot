@@ -1,14 +1,14 @@
 import os
 # your reddit app client id
-client_id = 'client_id'
-client_secret = 'client_secret'
-user_agent = 'BotName'
+client_id = os.environ['BOT_CLIENT_ID']
+client_secret = os.environ['BOT_CLIENT_SECRET']
+user_agent = os.environ['BOT_USER_AGENT']
 # username and password of account to post under
-username = 'Username'
-password = 'Pass'
+username = os.environ['BOT_USERNAME']
+password = password = os.environ['BOT_PASSWORD']
 subSettings = [
     [
-        'RepostBotTest',
+        os.environ['BOT_SUBREDDIT'],
         int(os.environ['BOT_TOP_DAYS']) if 'BOT_TOP_DAYS' in os.environ else None,
         int(os.environ['BOT_HOT_DAYS']) if 'BOT_HOT_DAYS' in os.environ else None,
         int(os.environ['BOT_NEW_DAYS']) if 'BOT_NEW_DAYS' in os.environ else None,
